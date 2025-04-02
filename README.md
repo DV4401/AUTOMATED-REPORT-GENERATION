@@ -16,3 +16,4 @@ This Python script reads sales data from a CSV file (sales_data.csv), analyzes i
 
 OUTPUT:
 
+[sales_report.pdf](https://github.com/user-attachments/files/19564559/sales_report.pdf)
